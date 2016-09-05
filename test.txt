@@ -3,6 +3,12 @@
 	<meta>
 </head>
 <body>
-	<div> </div>
+	<--!#600 Start-->
+	<div>
+		<li class="header-nav-item">
+            		<a class="header-nav-link" href="https://gist.github.com/" data-ga-click="Header, go to gist, text:gist">Gist</a>
+          	</li>
+	</div>
+	<--!#600 End-->
 </body>
 </html>
