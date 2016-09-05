@@ -1,6 +1,8 @@
 <html>
 <head>
-	<meta>
+	<--! #500 Start-->
+	<meta charset='utf-8'>
+	<--! #500 End-->
 </head>
 <body>
 	<div> </div>
